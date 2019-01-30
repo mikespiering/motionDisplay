@@ -1,0 +1,12 @@
+{
+  "name": "motioncontrol",
+  "version": "1.0.0",
+  "author": {
+    "name": "mspiering"
+  },
+  "dependencies": {
+    "huejay": "^1.8.5",
+    "pushlametric": "git+https://github.com/McMasc/PushLaMetric.git",
+    "tunnel-agent": "^0.6.0"
+  }
+}
